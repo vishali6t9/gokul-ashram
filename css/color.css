@@ -1,0 +1,358 @@
+/*
+	  ============================================================
+		   Font Color
+	  ============================================================
+*/
+.th-color,
+.tab-icon:hover,
+.icon-box:hover,
+.play-icon:hover,
+.blog-info:hover i,
+.blog-info:hover a,
+.info-item:hover a,
+.info-item:hover p,
+.user-name a:hover,
+.twitter-post .date,
+.info-thumb p a:hover,
+.kf-input input:focus,
+.bdha-info-top:hover i,
+.bdha-info-top:hover a,
+.twitter-post p a:hover,
+.bdha-news-thumb a:hover,
+.bdha-services:hover h6 a,
+.meet-team-head h6:hover a,
+.bdha-copy-right p a:hover,
+.navigation ul li:hover > a,
+.kode-author-head h5:hover a,
+.bdha-about3:hover .tab-icon,
+.widget_archive li:hover > a,
+.info-item:hover .social-box,
+.kf-input input:focus + label,
+.bdha-team:hover .team-title a,
+.twitter-post:hover .social-box,
+.group-tab .vcard .item-title a,
+.bdha-event:hover .event-title a,
+.kode-search input:focus + label,
+.music-gallery figcaption strong,
+.grid-listing-filter .active span,
+.sub-banner .breadcrumb li *:hover,
+.bdha-causes:hover .causes-title a,
+.bdha-about3:hover .about3-title a,
+.donation-progress-nav button:link,
+.donation-progress-nav button:focus,
+.donation-progress-nav button:hover,
+.donation-progress-nav button:active,
+.donation-progress-nav button:visited,
+.contactus-form .kf-input input:focus,
+.kode-search input[type="text"]:focus,
+.event-slider-nav .slick-arrow:before,
+.main-player .jp-playlist ul li a:hover,
+.contactus-form .kf-input textarea:focus,
+.bbp-search-form input[type="text"]:focus,
+.bbp-activity-form .bbp-activity-author > a,
+.bdha-tags_wrap .kode-social-link li a:hover,
+.search-wrapper .kf-input label:hover:before,
+.kode-navigation-inner .dl-menuwrapper li a:hover,
+.bbp-forum-freshness a:hover, .bbp-forum-title:hover,
+.main-player .jp-playlist ul li.jp-playlist-current a,
+.social-btns-container:hover ul.social-btns li a:hover,
+.main-player .jp-playlist ul li.jp-playlist-current:before,
+.buddy-press-wrapper .groups .item-list .item-title a:hover,
+.bdha-music-wrap .sm2-bar-ui .bd.sm2-playlist-drawer a:before,
+.bbp-search-form input[type="text"]:focus + .input-icon:before,
+.bdha-music-wrap div.jp-type-playlist div.jp-playlist li:before,
+.bdha-music-wrap div.jp-type-playlist div.jp-playlist li a:hover,
+.search-wrapper .kf-input input[type="text"]:focus + label:before,
+.bdha-music-wrap div.jp-type-playlist div.jp-playlist li.jp-playlist-current a,
+.bdha-copy-right .navigation li a:hover
+{
+	color:#420270 !important;
+}
+/*
+	  ============================================================
+		   Background Color
+	  ============================================================
+*/
+.btn1:hover,
+.social-box,
+.th-bg-color,
+.logo-wrapper,
+div.pp_overlay,
+.bdha-team2:hover,
+.tagcloud a:hover,
+.btn1:hover:before,
+.flickrbadges:hover,
+.campaing-small-img,
+.social-list a:hover,
+.kf-input label:hover,
+.dl-menuwrapper button,
+.percentage-box:before,
+.bdha-text-block figure,
+.kode-search label:hover,
+.img-effect-diflt figure,
+.bdha-causes:hover .btn1,
+.bdha-testimonial:before,
+.section-title h6:before,
+.barWrapper .progress-bar,
+.abslt .user-icon a:hover,
+.comment-reply-link:hover,
+.main-player .jp-play-bar,
+.community-services-thumb,
+.bdha-gallery-thumb figure,
+.form-submit .submit:hover,
+.about-services-thumb:hover,
+input:checked + .radio-value,
+.community-stats-thumb:hover,
+#bbpress-forums li.bbp-header,
+.bdha-music-wrap .jp-play-bar,
+.sm2-progress .sm2-progress-bar,
+.bdha-filterable-nav li a:hover,
+.accordion-open .accordian-icon,
+.bdha-filterable-nav li a.active,
+.bdha-services:hover .icon-box-2,
+.bdha-music-wrap .sm2-bar-ui .bd,
+.custom-dots .slick-dots li button,
+.sm2-playlist-wrapper ul li:hover a,
+.services-tab .nav-tabs li.active a,
+.blog-full-slider .slick-arrow:hover,
+.widget-tabs-nav .nav-tabs li:hover a,
+.accordian-outer-wrap .accordion-open,
+.sm2-playlist-wrapper ul li.selected a,
+.comingsoon-page form .kf-input label ,
+.widget-tabs-nav .nav-tabs li.active a,
+.relatedpost-slider .slick-arrow:hover,
+.bdha-custom-amount .kf-input label input,
+.bdha-causes:hover .progress .progress-bar,
+.community-forum-menu .dl-menu li a:hover,
+.widget-social .kode-social-link li a:hover,
+.bdha-music-wrap .control-wrap .jp-controls,
+.widget-slideshow-slider .slick-arrow:hover,
+.meet-team-thumb .kode-social-link li a:hover,
+.tab-media-player .sm2-progress .sm2-progress-bar,
+.buddy-press-wrapper .item-list-tabs ul li a:hover,
+.tab-media-player .sm2-progress .sm2-progress-ball,
+.buddy-press-wrapper .groups .item-list .item-avatar,
+.meet-team-slider .slick-dots li.slick-active button,
+.buddy-press-wrapper .item-list-tabs ul li.selected a,
+.event-full:hover .event-count-down .countdown-style-1,
+.sm2-bar-ui .music-progress .sm2-progress .sm2-progress-ball,
+.widget-testimonilal-slider .slick-dots li.slick-active button,
+.causes-detail figure  .causes-progress .progress .progress-bar,
+.single-player .jp-audio .jp-type-single .jp-progress .jp-play-bar,
+/*navigation color*/
+.navigation ul li ul li:hover a,
+.navigation ul li .sub-menu li:hover a,
+.navigation ul li .children li:hover a
+/*navigation color*/
+
+{
+background-color: #ca5f01 !important;
+    border-bottom: solid thin white;
+}
+/*
+	  ============================================================
+		   Border Color
+	  ============================================================
+*/
+
+.sub-banner h4,
+.tab-icon:hover,
+.bdha-music-wrap,
+.kf-input input:focus,
+.kode-search input:focus,
+.kf-input  textarea:focus,
+.abslt .user-icon a:hover,
+.bdha-about3:hover .tab-icon,
+.main-player .jp-play-bar:before,
+.services-tab .nav-tabs li.active a,
+.bdha-music-wrap .jp-play-bar:before,
+.relatedpost-slider .slick-arrow:hover,
+.custom-dots .slick-dots li.slick-active,
+.bbp-search-form input[type="text"]:focus,
+.audio-player-wrap .sm2-progress .sm2-progress-ball,
+.widget-testimonilal-slider .slick-dots li.slick-active button,
+.th-bd-color
+{
+	border-color:#ca5f00 !important;
+}
+.bdha-tag{
+	border-top-color: #07b5c1;
+}
+/*
+	  ============================================================
+		   Trandition
+	  ============================================================
+*/
+input,
+textarea,
+h1 a,h2 a,h3 a,h4 a,h5 a,h6 a,
+.btn1,
+.icon-box,
+.play-icon,
+.icon-box,
+.play-icon,
+.bdha-team2,
+.bdha-causes,
+.tagcloud a,
+.blog-info a,
+.info-item a,
+.info-item p,
+.user-name a,
+.social-box,
+.btn1:before,
+.flickrbadges,
+.team-title a,
+.progress-bar,
+.bdha-about3 a,
+.event-title a,
+.social-list a,
+.event-caption,
+.music-gallery,
+.accordian-icon,
+.kf-input label,
+.brand_slider a,
+.navigation li a,
+.bdha-shop-thumb,
+.bdha-info-top i,
+.bdha-info-top a,
+.team-caption h5,
+.img-effect-diflt,
+.flickrbadges img,
+.music-gallery img,
+.bdha-shop-contant,
+.twitter-post p a,
+.kode-search label,
+.kode-social-link,
+.input-icon:before,
+.bdha-link-quote a,
+.comment-reply-link,
+.campaing-small-img,
+.bdha-causes figure,
+.bdha-news-thumb a,
+.brand_slider a img,
+.blockquote-thumb a,
+.abslt .user-icon a,
+.bdha-gallery-thumb,
+.music-gallery:after,
+.navigation ul li a,
+.meet-team-head h6 a,
+.bdha-copy-right p a,
+.widget_archive li a,
+.about-services-thumb,
+.testimonial-img img,
+.campaing-small-thumb,
+.figure-contant-aling,
+.kode-social-link li a,
+.bdha-team figure img,
+.accordian-icon:before,
+.community-stats-thumb,
+.kode-author-head h5 a,
+.campaing-small-img img,
+.bdha-gallery-thumb img,
+.bdha-causes figure img,
+.img-effect-diflt figure,
+.blog-info i,.icon-box-2,
+.campaing-heading-wrap p,
+.kode-search label:before,
+.community-services-thumb,
+.bdha-filterable-nav li a,
+.bdha-gallery-thumb figure,
+.custom-dots .slick-dots li,
+.bdha-text-block figure img,
+.sm2-playlist-wrapper ul li,
+.sub-banner .breadcrumb li *,
+.info-thumb p a,.radio-value, 
+.white.kode-social-link li a,
+.sm2-playlist-wrapper ul li a,
+.donation-progress-nav button,
+.media-tab-nav .nav-tabs li a,
+.main-player .jp-playlist ul li,
+.search-wrapper .kf-input label,
+.widget-tabs-nav .nav-tabs li a,
+.accordian-outer-wrap .accordion,
+.main-player .jp-playlist ul li a,
+.custom-dots .slick-dots li button,
+.community-forum-menu .dl-menu li a,
+.media-tab-nav .nav-tabs li a:before,
+.search-wrapper .kf-input label:before,
+.blog-full-slider .slick-dots li button,
+.donation-detail-form .kf-input textarea,
+.bbp-forum-freshness a, .bbp-forum-title,
+.kode-navigation-inner .dl-menuwrapper li a,
+.buddy-press-wrapper .item-list-tabs ul li a,
+.buddy-press-wrapper .groups .item-list  .action,
+.buddy-press-wrapper .groups .item-list .item-title a,
+.buddy-press-wrapper .groups .item-list .item-avatar img,
+.bdha-music-wrap div.jp-type-playlist div.jp-playlist li,
+.bdha-music-wrap div.jp-type-playlist div.jp-playlist li a,
+.bdha-music-wrap div.jp-type-playlist div.jp-playlist li:before,
+.buddy-press-wrapper .groups .item-list .action .group-button a,
+.bdha-music-wrap .sm2-bar-ui .bd.sm2-playlist-drawer a:before
+{
+	-webkit-transition:all 0.3s ease-in-out;
+		-moz-transition:all 0.3s ease-in-out;
+			-ms-transition:all 0.3s ease-in-out;
+				-o-transition:all 0.3s ease-in-out;
+					transition:all 0.3s ease-in-out;	
+}
+
+
+
+
+/*Navigation Ul Color
+.navigation ul li ul,
+.navigation .sub-menu,
+.navigation .children,
+Navigation Ul Color*/
+.green-bg{
+	background-color: #4aa48a !important;
+}
+.blue-bg{
+	background-color: #4379b5 !important;
+}
+.purple-bg{
+	background-color: #b543a9 !important;
+}
+.lightgreen-bg{
+	background-color: #889f2e !important;
+}
+.darkorange-bg{
+	background-color: #ab7438 !important;
+}
+.lightred-bg{
+	background-color: #fa743f !important;
+}
+.darkpurple-bg{
+	background-color: #a44a55 !important;
+}
+.metallic-bg{
+	background-color: #9f7e2e !important;
+}
+.community-services-thumb.green-bg .btn1{
+	background-color: #2d8b70;
+}
+.community-services-thumb.light-blue .btn1{
+	background-color: #428793;
+}
+.dark-gray{
+	background-color: #444444 !important;
+}
+/**/
+.fb-box{
+	background-color: #1883d5 !important;
+}
+.twt-box{
+	background-color: #21c2f8 !important;
+}
+.pin-box{
+	background-color: #ef584d !important;
+}
+.gm-box{
+	background-color: #2c3e50 !important;
+}
+.lnk-box{
+	background-color: #43698f !important;
+}
+.drb-box{
+	background-color: #eb5d8c !important;
+}
